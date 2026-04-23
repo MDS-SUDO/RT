@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/10.1.dir/10.1.cpp.o -o 10.1 

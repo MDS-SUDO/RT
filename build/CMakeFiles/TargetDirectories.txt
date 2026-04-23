@@ -1,0 +1,3 @@
+/home/md/4.10/build/CMakeFiles/10.1.dir
+/home/md/4.10/build/CMakeFiles/edit_cache.dir
+/home/md/4.10/build/CMakeFiles/rebuild_cache.dir
